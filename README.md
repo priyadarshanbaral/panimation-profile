@@ -1,33 +1,42 @@
 <div align="center">
 
-# 👋 Hi, I'm **Priyadarshan Baral**
-
-### 🚀 MERN Stack Developer | Web Developer | B.Tech CSE
-
-**I build modern, responsive and user-friendly web applications.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,25:0066FF,50:7B2CFF,75:FF00C8,100:00FF88&height=230&section=header&text=PRIYADARSHAN%20BARAL&fontSize=46&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=MERN%20STACK%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;React.js+Developer;Node.js+Developer;Full+Stack+Web+Developer;Always+Learning+%26+Building+🚀" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2000&pause=600&color=00F5FF&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+REST+APIs;Building+Modern+Web+Applications;Code.+Build.+Debug.+Repeat." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=priyadarshanbaral&style=for-the-badge&color=00F5FF&label=PROFILE+VIEWS"/>
 
 <br><br>
 
 <a href="https://github.com/priyadarshanbaral">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
 <a href="https://linkedin.com/in/priyadarshan-baral">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=00A9FF"/>
+</a>
+
+<a href="mailto:priyadrshanbaral@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=FF4B4B"/>
 </a>
 
 </div>
 
 ---
 
-# ⚡ TECH STACK
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,git,github,vscode,postman,netlify" />
+# ⚡ MY TECH STACK
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman&theme=dark"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,50:7B2CFF,100:FF00C8&height=4"/>
 
 </div>
 
@@ -37,71 +46,54 @@
 
 ## 📚 Library Management System
 
-### **MERN Stack**
+**MERN Stack**
 
 ```text
-                 ┌───────────────┐
-                 │   React.js    │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │  Express.js   │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │    Node.js    │
-                 └───────┬───────┘
-                         ↓
-                 ┌───────────────┐
-                 │  REST APIs    │
-                 └───────┬───────┘
-                         ↓
-              ┌─────────────────────┐
-              │ MongoDB + Mongoose  │
-              └─────────────────────┘
+React.js
+    │
+    ▼
+Express.js + Node.js
+    │
+    ▼
+REST APIs
+    │
+    ▼
+MongoDB + Mongoose
 ```
 
-### ✨ Features
+### Features
 
 * 📖 Book Management
 * 👤 User Management
-* 🔄 Issue / Return
+* 🔄 Book Issue / Return
 * 🔎 Search
 * 💰 Fine Calculation
-* ⚡ REST APIs
-* 📱 Responsive UI
+* ⚡ REST API Integration
+* 📱 Responsive React UI
 
-🔗 **Repository:**
-https://github.com/priyadarshanbaral/Library-Management-System.git
+<a href="https://github.com/priyadarshanbaral/Library-Management-System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
 
 ---
 
 ## 🏦 Advanced Banking System
 
-### **HTML • CSS • JavaScript**
+**HTML • CSS • JavaScript**
 
 ```text
-             USER
-              ↓
-       ┌──────────────┐
-       │ BANKING UI   │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │ JS LOGIC     │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │ TRANSACTION  │
-       │ SIMULATION   │
-       └──────┬───────┘
-              ↓
-       ┌──────────────┐
-       │ UPDATED UI   │
-       └──────────────┘
+USER
+  ↓
+BANKING UI
+  ↓
+JAVASCRIPT LOGIC
+  ↓
+TRANSACTION SIMULATION
+  ↓
+UPDATED UI
 ```
 
-### ✨ Features
+### Features
 
 * 💳 Account Interface
 * 💰 Transaction Simulation
@@ -109,41 +101,73 @@ https://github.com/priyadarshanbaral/Library-Management-System.git
 * ⚡ JavaScript Interactions
 * 📱 Responsive Design
 
-🔗 **Repository:**
-https://github.com/priyadarshanbaral/-Advanced-Banking-System.git
+<a href="https://github.com/priyadarshanbaral/-Advanced-Banking-System">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-7B2CFF?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
 
 ---
 
 ## 🛒 Online Shopping Website
 
-### **HTML • CSS • JavaScript**
+**HTML • CSS • JavaScript**
 
-### ✨ Features
-
-* 🛍️ Product Browsing
-* 🛒 Shopping Cart
-* 📦 Order Handling
-* 💳 Simulated Checkout
-* 📱 Responsive Design
-* ⚡ Vanilla JavaScript
+```text
+🛍️ Product Browsing
+        ↓
+🛒 Shopping Cart
+        ↓
+📦 Order Handling
+        ↓
+💳 Simulated Checkout
+```
 
 ---
 
-# 💼 INTERNSHIP
+<div align="center">
 
-## 💻 MERN Stack Developer Intern
+# 🐍 SNAKE MODE
 
-### **Vidyavistara Institute — Bhubaneswar**
+### My GitHub contribution activity
+
+<br>
+
+<img src="https://raw.githubusercontent.com/priyadarshanbaral/priyadarshanbaral/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake"/>
+
+<br><br>
+
+```text
+        🟢 🟢 🟢
+      🟢 🐍 🟢
+    🟢 🟢 🟢
+  🟢 🟢 🟢 🟢
+🟢 🟢 🟢 🟢 🟢
+```
+
+### 🐍 KEEP CODING • KEEP CONTRIBUTING • KEEP BUILDING
+
+</div>
+
+---
+
+# 💼 INTERNSHIP EXPERIENCE
+
+<div align="center">
+
+## MERN Stack Developer Intern
+
+### Vidyavistara Institute — Bhubaneswar
 
 `January 2026 – Present`
 
+</div>
+
 ```text
-✓ React.js Frontend Development
-✓ Node.js Backend Development
+✓ React.js Frontend
+✓ Node.js Backend
 ✓ Express.js REST APIs
 ✓ MongoDB + Mongoose
 ✓ CRUD Operations
-✓ Frontend ↔ Backend Integration
+✓ API Integration
 ✓ Debugging
 ✓ Git & GitHub
 ✓ Team Collaboration
@@ -165,55 +189,49 @@ https://github.com/priyadarshanbaral/-Advanced-Banking-System.git
 
 ---
 
-# 🐍 CONTRIBUTION SNAKE
-
 <div align="center">
 
-### 🐍 KEEP CODING • KEEP CONTRIBUTING • KEEP BUILDING
+# 📊 GITHUB ANALYTICS
 
-<img src="https://raw.githubusercontent.com/priyadarshanbaral/priyadarshanbaral/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://github-readme-stats.vercel.app/api?username=priyadarshanbaral&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadarshanbaral&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=priyadarshanbaral&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎮 DEVELOPER MODE
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   PRIYADARSHAN@DEV ~ $ npm run developer             ║
-║                                                      ║
-║   > INITIALIZING...                                  ║
-║                                                      ║
-║   [████████████████████████████████████] 100%       ║
-║                                                      ║
-║   ✓ JavaScript                                      ║
-║   ✓ React.js                                        ║
-║   ✓ Node.js                                         ║
-║   ✓ Express.js                                      ║
-║   ✓ MongoDB                                         ║
-║   ✓ REST APIs                                       ║
-║   ✓ Git & GitHub                                    ║
-║                                                      ║
-║   STATUS: READY TO BUILD 🚀                         ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
----
-
-# 📊 GITHUB ANALYTICS
+# 🎮 DEVELOPER TERMINAL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyadarshanbaral&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyadarshanbaral&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=priyadarshanbaral&theme=tokyonight&hide_border=true" width="70%"/>
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║  PRIYADARSHAN@DEV ~ $ npm run developer                   ║
+║                                                            ║
+║  > INITIALIZING DEVELOPER MODE...                          ║
+║                                                            ║
+║  [████████████████████████████████████████] 100%          ║
+║                                                            ║
+║  ✓ JavaScript                                               ║
+║  ✓ React.js                                                 ║
+║  ✓ Node.js                                                  ║
+║  ✓ Express.js                                               ║
+║  ✓ MongoDB                                                  ║
+║  ✓ REST APIs                                                ║
+║  ✓ Git & GitHub                                             ║
+║                                                            ║
+║  STATUS: READY TO BUILD 🚀                                ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -221,96 +239,56 @@ https://github.com/priyadarshanbaral/-Advanced-Banking-System.git
 
 # 🎓 EDUCATION
 
+<div align="center">
+
 ### 🎓 B.Tech — Computer Science
 
 **NM Institute of Engineering and Technology, Bhubaneswar**
 
-`2023 – 2027` • **CGPA: 7.85**
+`2023 – 2027 | CGPA: 7.85`
 
----
+<br>
 
 ### 📘 12th — Science
 
 **Godavarish Higher Secondary School, Banpur**
 
-`2021 – 2023` • **65%**
+`2021 – 2023 | 65%`
 
----
+<br>
 
 ### 📗 10th
 
 **Godavarish Vidyapitha, Banpur**
 
-`2020 – 2021` • **73%**
+`2020 – 2021 | 73%`
+
+</div>
 
 ---
 
 # 🏆 CERTIFICATIONS
 
-* 🌐 **Web Development** — Vidyavistara Institute
-* 🤖 **Artificial Intelligence** — IBM SkillsBuild
-* 🧠 **AI Tools Workshop** — be10X
-* 💻 **DSA & MERN Workshop** — MyAnatomy
+<div align="center">
+
+| Certification              | Organization           |
+| -------------------------- | ---------------------- |
+| 🌐 Web Development         | Vidyavistara Institute |
+| 🤖 Artificial Intelligence | IBM SkillsBuild        |
+| 🧠 AI Tools Workshop       | be10X                  |
+| 💻 DSA & MERN Workshop     | MyAnatomy              |
+
+</div>
 
 ---
 
 # 🏅 ACHIEVEMENT
 
-## 🏆 Hackathon Participant
-
-```text
-Team Collaboration
-       +
-Problem Solving
-       +
-Rapid Prototyping
-       +
-Web Development
-       ↓
-   BUILD • TEST • IMPROVE
-```
-
----
-
-# 📈 CURRENTLY LEARNING
-
-```text
-React.js
-   ↓
-Node.js
-   ↓
-Express.js
-   ↓
-MongoDB
-   ↓
-REST APIs
-   ↓
-Full Stack Development
-```
-
-🎯 **Goal:** Become a skilled MERN Stack / Full Stack Web Developer.
-
----
-
-# 🌐 CONNECT WITH ME
-
 <div align="center">
 
-📍 **Bhubaneswar, Odisha, India**
+🏆 **Hackathon Participant**
 
-<br>
-
-📧 **Email:** [priyadrshanbaral@gmail.com](mailto:priyadrshanbaral@gmail.com)
-
-<br>
-
-<a href="https://github.com/priyadarshanbaral">
-<img src="https://img.shields.io/badge/GitHub-priyadarshanbaral-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/priyadarshan-baral">
-<img src="https://img.shields.io/badge/LinkedIn-Priyadarshan%20Baral-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+`Team Collaboration` • `Problem Solving` • `Rapid Prototyping` • `Web Development`
 
 </div>
 
@@ -318,10 +296,36 @@ Full Stack Development
 
 <div align="center">
 
-# ⚡ LEARN • BUILD • DEBUG • IMPROVE • REPEAT ⚡
+# 🌐 CONNECT WITH ME
 
-### 🚀 Thanks for visiting my profile!
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<a href="https://github.com/priyadarshanbaral">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/priyadarshan-baral">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:priyadrshanbaral@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+📍 **Bhubaneswar, Odisha, India**
+
+<br><br>
+
+### ⚡ LEARN • BUILD • DEBUG • IMPROVE • REPEAT
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,25:0066FF,50:7B2CFF,75:FF00C8,100:00FF88&height=170&section=footer&animation=twinkling"/>
 
 </div>
